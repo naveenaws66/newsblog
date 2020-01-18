@@ -1,0 +1,2 @@
+# newsblog
+Django project
